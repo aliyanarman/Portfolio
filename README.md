@@ -6,9 +6,7 @@
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ---
 ## About
-My name is Aliyan, I am a data analyst proficient in SQL, Python, Excel and PowerBI with strong understanding of data analytics techniques including, but not limited to, data preparation, data wrangling, business intelligence.
-
-In this portfolio, I have included data projects that showcase my technical skills as well as analytical capability. These projects demonstrate my ability to organize, analyze, and present data in a clear way, such that stakeholders make important decisions easily.
+My name is Aliyan, I am proficient in MS OFFICE SUITE, PowerBI, SQL, Python, with strong project management skills. These projects demonstrate my ability to organize, analyze, and present data in a way such that stakeholders make important decisions easily.
 
 ## Flagship Project
 ### [Alight](https://github.com/aliyanarman/Pocket-Financial-Analyst/blob/main/README.md)
