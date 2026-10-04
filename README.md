@@ -6,7 +6,7 @@
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ---
 ## About
-My name is Aliyan, I am proficient in MS OFFICE SUITE, PowerBI, SQL, Python, with strong project management skills. These projects demonstrate my ability to organize, analyze, and present data in a way such that stakeholders make important decisions easily.
+My tech stack includes MS OFFICE SUITE, PowerBI, SQL, Python. Following projects demonstrate my ability to organize, analyze, and present data in a way such that D.G's and stakeholders make important decisions easily.
 
 ## Flagship Project
 ### [Alight](https://github.com/aliyanarman/Pocket-Financial-Analyst/blob/main/README.md)
